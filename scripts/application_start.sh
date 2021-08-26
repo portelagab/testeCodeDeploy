@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /data/app
+cd /appdir
 npm start
