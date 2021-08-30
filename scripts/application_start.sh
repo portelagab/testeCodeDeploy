@@ -3,5 +3,5 @@
 cd /appdir
 
 npm install
-supervisord
+sudo supervisord
 sudo supervisorctl start appteste
