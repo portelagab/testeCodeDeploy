@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pkill node
+supervisorctl stop appteste

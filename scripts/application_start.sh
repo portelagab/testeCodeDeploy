@@ -3,4 +3,5 @@
 cd /appdir
 
 npm install
-supervisorctl start app
+supervisorctl reread
+supervisorctl reload
