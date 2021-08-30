@@ -3,4 +3,4 @@
 cd /appdir
 
 npm install
-supervisorctl start app
+node app.js
