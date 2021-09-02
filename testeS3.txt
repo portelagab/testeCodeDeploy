@@ -1,1 +1,1 @@
-teste s3 deploy
+teste s3 build
